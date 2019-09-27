@@ -58,9 +58,9 @@ Flask Web App - Web app template provided to modify file paths for database and 
 
 ## Web app Screenshots
 
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/KusumSAnand/Disaster-Response-Pipelines/tree/master/web_app_screen_shots/dashboard.png)
 
-![messageclassification](msgclssfy.png)
+![messageclassification](https://github.com/KusumSAnand/Disaster-Response-Pipelines/tree/master/web_app_screen_shots/msgclssfy.png)
 
 ## Acknowledgements
 
