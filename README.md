@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-In this project involves creation of  machine learning pipeline to classify disaster messages. The disaster messages are categoried to be sent to appropriate disaster relief agency.
+This project involves creation of  machine learning pipeline to classify disaster messages. The disaster messages are categoried to be sent to appropriate disaster relief agency.
 
 The model built for an API to classify messages includes a web app where emergency worker can input messages and  get the classification outcome of the  messages. Web app also displays the visualization of the categorization of the data. Below we see a snapshot of the graphs displayed in the web app.
 
