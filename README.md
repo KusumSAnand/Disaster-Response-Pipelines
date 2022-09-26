@@ -1,5 +1,5 @@
 
-# Disaster Response Pipeline Project
+# Machine learning pipeline to classify disaster messages
 
 ## Project Overview
 
