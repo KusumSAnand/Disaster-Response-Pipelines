@@ -62,6 +62,3 @@ Flask Web App - Web app template provided to modify file paths for database and 
 
 ![messageclassification](web_app_screen_shots/msgclssfy.png)
 
-## Acknowledgements
-
-Disaster Response Pipeline Project has been completed as part of Udacity Data Scientist Nanodegre. Data from [Figure Eight](https://www.figure-eight.com/) and code templates have been provided by Udacity.
